@@ -70,12 +70,10 @@ coming soon
 
 coming soon
 
-{% bibliography --file ABC %}
 
 <h2 id="Applications">Applications</h2>
 
 coming soon
 
-{% bibliography --file Applications %}
 -->
 <h2 id="Related">Other Related Research</h2>
