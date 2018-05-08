@@ -31,19 +31,14 @@ send us a pull-request, or an email with the updated file (see box on
 The following papers are often cited as early works on the
 idea of uncertainty over the result of deterministic computations. Some entries have a "notes" field providing further information about the relevance of the cited work, or pointers to specific results therein.
 
-{% bibliography --file general %}
 
 <h2 id="Quadrature">Quadrature</h2>
 
-{% bibliography --file Quadrature %}
 
 <h2 id="Linear">Linear Algebra</h2>
 
-{% bibliography --file LinearAlgebra %}
-
 <h2 id="Optimization">Optimization</h2>
 
-{% bibliography --file Optimization %}
 
 <h2 id="ODEs">Ordinary Differential Equations</h2>
 
@@ -58,20 +53,18 @@ also found interest in machine learning: inferring a differential equation from
 ODE. Below, this is listed under <a href="#inferringODEs">"inferring ODEs"</a>.
 
 <h3 id="solvingODEs">Work regarding "solving ODEs"</h3>
-{% bibliography --file ODEs %}
 
 <h3 id="inferringODEs">Work regarding "inferring ODEs"</h3>
-{% bibliography --file ODE_from_path %}
+
 
 <h2 id="PDEs">Partial Differential Equations</h2>
 
-{% bibliography --file PDEs %}
 
 <h2 id="Sampling">Sampling (Monte Carlo)</h2>
 
 coming soon
 
-{% bibliography --file MonteCarlo %}
+
 <!-- 
 <h2 id="ABC">Approximate Bayesian Computation (ABC)</h2>
 
@@ -86,5 +79,3 @@ coming soon
 {% bibliography --file Applications %}
 -->
 <h2 id="Related">Other Related Research</h2>
-
-{% bibliography --file Related %}
