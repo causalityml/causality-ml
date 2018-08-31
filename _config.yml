@@ -1,5 +1,5 @@
 name: "Causality.ML"
-baseurl:
+baseurl: causality.ml
 
 
 # changing this to custom will put links to pages at *.html rather than */
